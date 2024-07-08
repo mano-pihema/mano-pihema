@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-## About Me 
-
 Kia ora! Welcome to my github page. I come from a background in cabinetry and prop making for film and TV. I'm a keen Full Stack Developer currently completing the Advanced Full Stack Developer at MissionReady focusing on integrating Cloud and AI services into my projects.
 
 ##  I’m currently working on 
